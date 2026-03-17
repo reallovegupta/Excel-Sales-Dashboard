@@ -15,7 +15,7 @@ It uses pivot tables and charts to analyze sales performance and trends.
 [Download Excel Dashboard](PivotDashboard_FINAL.xlsx)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Insights
 - Sales performance analysis  
